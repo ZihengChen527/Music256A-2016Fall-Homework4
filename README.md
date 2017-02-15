@@ -1,4 +1,4 @@
-Music 256A Homework4 -- Sound Ripple
+#Music 256A Homework4 -- Sound Ripple
 
 Sound ripple is a software that can generate ripples in real-time
 according to the amplitude and rhythm of mic input audio. Two add-ons
